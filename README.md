@@ -1,1 +1,1 @@
-# grid-bot
+# FoxBot for crypto grid trading 
