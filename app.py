@@ -4,7 +4,8 @@ FoxBot Grid Trading Flask Web App.
 This is a minimalist Flask web app for the FoxBot Grid Trading platform.
 It renders the 'index.html' template.
 
-Author: Your Name
+Author: Sebastien Tetaud
+Email: tetaud.sebastien@gmail.com
 Date: August 9, 2023
 """
 
