@@ -1,7 +1,7 @@
 """
-FoxBox Grid Trading Flask Web App.
+FoxBot Grid Trading Flask Web App.
 
-This is a minimalist Flask web app for the FoxBox Grid Trading platform.
+This is a minimalist Flask web app for the FoxBot Grid Trading platform.
 It renders the 'index.html' template.
 
 Author: Your Name
