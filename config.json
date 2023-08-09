@@ -1,0 +1,14 @@
+{
+    "exchange": {
+        "binance": {
+            "api_source_key": "api_source_key",
+            "api_source_secret": "api_source_secret",
+            "type": "spot"
+        }
+    },
+    "email":{
+        "email_adress":"email_adress",
+        "email_password":"email_password"
+
+    }
+}
